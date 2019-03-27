@@ -1,0 +1,6 @@
+QCCHackathon Exercise 1:
+
+function mulitpleFive(number){
+return number * 5;
+}
+multipleFive(5);
